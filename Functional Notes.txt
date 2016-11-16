@@ -1,0 +1,22 @@
+LEADERSHIP
+Identify each team who will be impacted by this change
+Communicate need to the management of each team
+Each team manager will be responsible for communicating the change to their employees
+
+Draft communication outlining the risks and reasons for the change
+Communicate any problems back to the project team
+Explain exactly what is allowed and what is not.  Explain how to use each account properly.
+
+Rolling wave planning.  Access to all departmental managers is not available at this stage in the project so details could not be forumulated for each individual team's requirements.  Instead the project plan will include a task for each manager to do the following for his/her team:
+Identify all applications where the primary account has elevated rights
+Create appropriate access for new admin accounts
+Removed access from primary account
+
+For this to be well received, managers will have to champion the change for their team.  
+
+POLICY
+Must state that using the admin account to access resources outside of the NFC domain is prohibited
+Must state that primary account without admin access to any system or application must be used for all daily tasks such as internet, email, instant messaging, document viewing and editing.
+Primary accounts must not be given access to file locations (shares) on any server system except for network storaged designated as appropriate storage locations for all users because this could circumvent the intended security measures.
+
+
